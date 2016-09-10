@@ -26,6 +26,6 @@ class PyPythia():
         
 p = PyPythia()
 
-for i in range(0,1000):
+for i in range(0,10000):
     print (p.generate())
 
