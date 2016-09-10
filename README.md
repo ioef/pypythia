@@ -31,7 +31,7 @@ Note: This is a joke, please do not use
 Proof:
 
 
-./pypythia.py > test2.bin 
+./pythia.py > test2.bin 
 
 $ ent test2.bin
 
